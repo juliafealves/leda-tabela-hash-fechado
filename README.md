@@ -4,3 +4,5 @@ _Closed Address Hashing_ ou _hashing_ encadeado é a forma mais simples de trata
 tabela _hash_ é uma lista ligada, cujos elementos têm hash code `i`. 
 
 ![Tabela Hash Fechado](hashing.png)
+
+Explicação do roteiro: [Vídeo](https://youtu.be/Ajh1QvO2GjM)
